@@ -1,0 +1,25 @@
+<jwrapper>
+<BuildOutputFolder>F:\Programming\Java\Project\reservasi_kelas_kosong\JWrapperBuild</BuildOutputFolder>
+<BundleName></BundleName>
+<SplashPNG>C:\Users\rizal\AppData\Roaming\JWrapper-JWrapperApp\JWrapper-JWrapperApp-00049034776-complete\resources\jwlogo256.png</SplashPNG>
+<BundleLogoPNG>C:\Users\rizal\AppData\Roaming\JWrapper-JWrapperApp\JWrapper-JWrapperApp-00049034776-complete\resources\jwlogo256.png</BundleLogoPNG>
+<InstallType>AllUsers</InstallType>
+<App>
+  <Name></Name>
+  <LogoPNG>C:\Users\rizal\AppData\Roaming\JWrapper-JWrapperApp\JWrapper-JWrapperApp-00049034776-complete\resources\jwlogo256.png</LogoPNG>
+  <MainClass></MainClass>
+</App>
+<SupportedLanguages>en</SupportedLanguages>
+<SkipWindows>true</SkipWindows>
+<SkipLinux>true</SkipLinux>
+<SkipMacOS>true</SkipMacOS>
+<SkipLinuxARM32>true</SkipLinuxARM32>
+<NoStripJREs>true</NoStripJREs>
+<WindowsElevation>None</WindowsElevation>
+<WindowsElevationUiAccess>true</WindowsElevationUiAccess>
+<JvmOptions>
+</JvmOptions>
+<!-- IMPORTANT place custom content BELOW this comment for compatibility with JW App -->
+
+
+</jwrapper>
